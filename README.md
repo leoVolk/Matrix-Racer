@@ -1,5 +1,5 @@
 # Matrix-Racer
-(https://i.imgur.com/MmYvsND.png)
+[Screenshot](https://i.imgur.com/MmYvsND.png)
 ## Information
 
 A unity project of an infinite pipe racer, made at the start of my Unity learning progress. 
